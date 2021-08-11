@@ -1,0 +1,107 @@
+        #logo-img{
+            height: 40px;
+            width: 200px;
+        }
+        .navbar{
+            background-color: lavenderblush !important;
+            height: 50px;
+        }
+        .navbar-light .navbar-nav .nav-link{
+            font-weight: 700;
+            font-size: 14px;
+            text-transform: uppercase;
+            color: #F73859;
+        }
+        .nav-link:hover{
+            background-color:lightgrey;
+            border-radius: 10px;
+        }
+        .navbar-light .navbar-nav .nav-item{
+            margin: 0 15px;
+        }
+        .donate-btn{
+            background-color: #F73859;
+            color: white;
+            font-weight: bold;
+        }
+        .d-block{
+            height: 550px;
+        }
+        .trans{
+            border-radius: 10px;
+            background:black;
+            opacity: 50%;
+            color: #F5CBA7;
+            font-family:'Courier New', Courier, monospace;
+        }
+        .hunger{
+            color: #F4F6F7;
+            font-family:'Courier New', Courier, monospace;
+        }
+        .commit{
+            color:#F4F6F7;
+            font-size: 20px;
+            text-align: left;
+            font-family:'Courier New', Courier, monospace;
+        }
+        .why-bg{
+            height:600px;
+            width: 100%;
+            opacity: 30%;
+        }
+
+       .donate-bg{
+           width: 100%;
+           position: relative;
+           text-align: center;
+           color: white;
+       }
+       .heading{
+           position: absolute;
+           top: 40%;
+           left: 50%;
+           transform: translate(-50%,-50%);
+       }
+       .why-head{
+           color:#154360;
+           font-family:  cursive,monospace;
+       }
+       .why-cont{
+           padding-top: 50px;
+           color:slategray;
+           font-family:Verdana, Geneva, Tahoma, sans-serif;
+       }
+        #about{
+            margin: 0 auto;
+            margin-left: 150px;  
+            margin-right: 150px;
+        }
+        .card-bg{
+            background-color:#FDEDEC;
+        }
+        .card-head{
+            color:#F73859;
+            text-align: center;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        .card-text{
+            text-align: center;
+            font-family: cursive,monospace;
+        }
+        #contact{
+            height: 300px;
+            background-color:#F9EBEA;
+            text-align: center;
+            font-family: cursive,monospace;
+            }
+        .card-body{
+            color: black;
+            text-align: center;
+            font-family:Georgia, 'Times New Roman', Times, serif;
+        }
+        
+        #want{
+            font-family: cursive,monospace;
+            color:#154360;
+            padding: 20px;
+            }
